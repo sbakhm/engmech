@@ -158,5 +158,3 @@ disp(['Best X: ',num2str(XBest)]);
 disp(['Best Y: ',num2str(YBest)]);
 disp('Best Lengths: ');
 disp(BestLengths);
-
-% 
